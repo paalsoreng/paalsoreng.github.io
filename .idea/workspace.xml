@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="acd0f465-393d-4087-9e97-33ed5b8b554a" name="Changes" comment="git ignore">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="acd0f465-393d-4087-9e97-33ed5b8b554a" name="Changes" comment="direct method version">
       <change beforePath="$PROJECT_DIR$/19.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/19.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8ca74a786c648ff2782b.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/969.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/969.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/A002_StartGuide_190426.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/UserGuide.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/composeApp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composeApp.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/composeResources/symshiftweb.composeapp.generated.resources/drawable/compose-multiplatform.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/e9b28911e687b1ee6b42.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faa5a1cd258588419b79.wasm" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" />
     </list>
@@ -101,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ny versjon" />
     <MESSAGE value="git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+    <MESSAGE value="direct method version" />
+    <option name="LAST_COMMIT_MESSAGE" value="direct method version" />
   </component>
 </project>
